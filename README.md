@@ -38,8 +38,6 @@ This project demonstrates how to **monitor CPU usage** on an Azure Ubuntu VM and
 - VM Size: `Standard B1s (1vCPU, 1GB RAM)`
 - Created new Resource Group and Virtual Network
 
-📸 *Screenshot:*  
-![VM Creation](screenshots/vm-creation.png)
 
 ---
 
@@ -47,8 +45,6 @@ This project demonstrates how to **monitor CPU usage** on an Azure Ubuntu VM and
 - Connected VM to **Log Analytics Workspace**
 - Enabled **Guest-level performance monitoring**
 
-📸 *Screenshot:*  
-![Monitoring Enabled](screenshots/monitoring-enabled.png)
 
 ---
 
@@ -59,9 +55,6 @@ This project demonstrates how to **monitor CPU usage** on an Azure Ubuntu VM and
 - Severity: **Level 2 – Warning**
 - Linked to an **Action Group** with email notification
 
-📸 *Screenshots:*  
-- ![Alert Rule](screenshots/alert-rule-config.png)  
-- ![Email Alert](screenshots/email-alert.png)
 
 ---
 
